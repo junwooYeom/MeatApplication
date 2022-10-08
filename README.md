@@ -12,7 +12,7 @@
 ### 비동기 처리
 - Kotlin Coroutines
 ### 이미지 리소스
-- Glide
+- Coil ( Compose ImageView 사용을 위하여 사용 )
 ### 뷰 구성
 - Jetpack Compose
 - Google Accompanist ( TabLayout Compose 로 사용하기 위해 사용 )
