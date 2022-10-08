@@ -69,7 +69,7 @@ dependencies {
     implementation(libs.coil)
 
     // Hilt
-    implementation(libs.hilt.android)
+    implementation(libs.hilt)
     kapt(libs.hilt.compiler)
 
     // TEST IMPLEMENTATION
