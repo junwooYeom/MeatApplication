@@ -13,4 +13,4 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "MeatApplication"
-include ':app'
+include(":app")
