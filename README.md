@@ -15,8 +15,7 @@
 - Glide
 ### 뷰 구성
 - Jetpack Compose
-- Google Accompanist ( TabLayout Compose 로 사용하기 위해 
-- Jetpack Composeㅅㅏ요 
+- Google Accompanist ( TabLayout Compose 로 사용하기 위해 사용 )
 
 ## 프로젝트 설치 및 빌드 방법
 > Android Studio 가 설치되어 있지 않다면 설치 부탁드립니다.
